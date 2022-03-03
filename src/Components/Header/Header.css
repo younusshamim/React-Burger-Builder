@@ -1,26 +1,27 @@
-.Navigation{
+.Navigation {
     margin-bottom: 20px;
 }
-.container{
-    width:98%!important;
-}
+
 .Brand{
-    color:white;
-    font-size:15px;
-    margin-top:-20px;
+    color: white;
+    font-size: 15px;
+    margin-top: -20px;
 }
-.NavLink{
+
+.NavLink {
     text-decoration: none;
-    color:white!important;
-    font-size:25px;
-    margin-top:-25px;
-    margin-left:10px;
+    color: white;
+    font-size: 25px;
+    margin-top: -25px;
+    margin-left: 10px;
 }
-.NavLink:hover{
-    color:wheat;
+
+.NavLink:hover {
+    color: wheat;
     text-decoration: none;
 }
-.active{
+
+.active {
     text-shadow: 1px 1px grey;
-    color:wheat!important;
+    color: wheat;
 }
